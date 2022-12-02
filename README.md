@@ -1,4 +1,4 @@
-# Singapore Postal Code to Address Converter
+# Singapore Postal Code to Address Converter [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This Python CLI tool uses the One Map SG API to batch process postal codes and collect their address information.
 
